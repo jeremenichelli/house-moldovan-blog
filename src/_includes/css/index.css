@@ -524,6 +524,7 @@ img {
 .markdown-content h4 {
   margin: 2rem 0 1rem 0;
   scroll-margin-top: 4rem; /* scroll offset for sticky header */
+  scroll-snap-margin: 4rem 0 0;
   font-weight: var(--font-weight-bolder);
 }
 
